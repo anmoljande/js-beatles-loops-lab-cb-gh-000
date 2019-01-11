@@ -21,5 +21,6 @@ function johnLennonFacts(facts)
     i++;
    
  }
+ return facts;
   
 }
