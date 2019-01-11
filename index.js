@@ -8,4 +8,5 @@ function theBeatlesPlay(musicans,instruments)
     arr.push(str);
     
   }
+  return arr;
 }
